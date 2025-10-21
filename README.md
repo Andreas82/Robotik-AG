@@ -3,7 +3,9 @@
 ### Planung
 Es gibt eine ganze Reihe von Editoren, die wir für Calliope benutzen können.
 
-Das Würfelbespiel funktioniert und nutzt den Beschleunigungssensor und das Display.
+https://calliope.cc/programmieren/editoren
+
+Das Würfelbespiel auf https://makecode.calliope.cc/ funktioniert und nutzt den Beschleunigungssensor und das Display.
 
 ### Code-Beispiele
 ```
