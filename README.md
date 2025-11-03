@@ -17,4 +17,18 @@ basic.forever(function () {
 ```
 Liest den Temperatursensor und gibt die Temperatur auf dem Display aus
 
+### Ablauf
+- Allgemeine Vorstellungsrunde
+- Präsentation zum Calliope
+- Anschließen des Calliope
+- Bearbeiten von einfachen Beispielen auf MakeCode, erstmal blockbasiert
+- Wenn das fertig ist, dann evtl. noch Übergang auf Python Code
+
+
+### Hausaufgabe
+- Nachdenken über mögliche Projekte
+
+### Ideen für weitere Projekte
+https://webshop.calliope.cc/MotionKit-20-fuer-Calliope-mini   Motion Kit
+
 
