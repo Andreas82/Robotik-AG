@@ -31,4 +31,7 @@ Liest den Temperatursensor und gibt die Temperatur auf dem Display aus
 ### Ideen für weitere Projekte
 https://webshop.calliope.cc/MotionKit-20-fuer-Calliope-mini   Motion Kit
 
+## Zweite Stunde 20.11.25
+### Planung
+Konkrete etwas komplexere Aufgabe stellen
 
