@@ -33,5 +33,11 @@ https://webshop.calliope.cc/MotionKit-20-fuer-Calliope-mini   Motion Kit
 
 ## Zweite Stunde 20.11.25
 ### Planung
-Konkrete etwas komplexere Aufgabe stellen
+- Einrichtung und Projekte von letzten Mal zum Laufen bringen
+- Hausaufgabe abfragen... was wollen die Schüler gerne machen?
+- Einführung in den Python Code Editor
+- Einführung in Radiokommunikation
+- Bilden von Zweiergruppen (Kanäle einteilen)
+- Kommunikation zwischen 2 Calliopes etablieren
+
 
